@@ -1,0 +1,2 @@
+# rcs
+My .*rc files
